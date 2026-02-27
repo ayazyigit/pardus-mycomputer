@@ -103,7 +103,7 @@ msgstr "Utilisé"
 
 #: ui/MainWindow.glade:1235
 msgid "Free"
-msgstr "Gratuit"
+msgstr "Libre"
 
 #: ui/MainWindow.glade:1251
 msgid "Total"
@@ -178,7 +178,7 @@ msgstr "Se connecter au serveur"
 
 #: ui/MainWindow.glade:2101
 msgid "Enter server address…"
-msgstr "Entrez l'adresse du serveur..."
+msgstr "Entrez l'adresse du serveur…"
 
 #: ui/MainWindow.glade:2189
 msgid "Server Addresses"
@@ -347,7 +347,7 @@ msgstr "Lieux"
 
 #: src/MainWindow.py:530
 msgid "Trash is empty"
-msgstr "La poubelle est vide."
+msgstr "La poubelle est vide"
 
 #: src/MainWindow.py:532
 msgid "Trash contains 1 file"
@@ -356,7 +356,7 @@ msgstr "La corbeille contient 1 fichier"
 #: src/MainWindow.py:534
 #, python-format
 msgid "Trash contains %s files"
-msgstr "La corbeille contient %s fichiers."
+msgstr "La corbeille contient %s fichiers"
 
 #: src/MainWindow.py:536 src/MainWindow.py:546
 msgid "Trash"
@@ -372,7 +372,7 @@ msgstr "Parcourir l'ordinateur"
 
 #: src/MainWindow.py:544
 msgid "Recent"
-msgstr "Récente"
+msgstr "Récent"
 
 #: src/MainWindow.py:545
 msgid "Recent files"
@@ -388,7 +388,7 @@ msgstr "Le disque est disponible, cliquez pour le monter."
 
 #: src/MainWindow.py:1113
 msgid "Mount"
-msgstr "Mont"
+msgstr "Monter"
 
 #: src/MainWindow.py:1130
 msgid "Unmount"
@@ -460,7 +460,7 @@ msgstr "Erreur"
 
 #: src/MainWindow.py:2533
 msgid "Unmounting process is done"
-msgstr "Le processus de démontage est terminé."
+msgstr "Le processus de démontage est terminé"
 
 #: src/MainWindow.py:2537
 msgid "You can eject the network device."
